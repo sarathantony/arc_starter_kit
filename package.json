@@ -99,7 +99,7 @@
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "history": "^4.9.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "normalizr": "3.4.1",
     "pcln-design-system": "^2.7.1",
     "prop-types": "^15.7.2",
